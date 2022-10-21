@@ -24,10 +24,10 @@ INSTRUCCIONES DE INSTALACION BACKEND LARAVEL - MYSQL
 >php artisan db:seed
 
 #Ejecutar servicio
-php artisan serve 
+>php artisan serve 
 
 #ó
-php -S localhost:8000 -t public/
+>php -S localhost:8000 -t public/
 
 INSTRUCCIONES DE INSTALACION FRONTEND VUEJS
 #Ir a la carpeta frontend
