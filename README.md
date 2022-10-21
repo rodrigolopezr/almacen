@@ -30,6 +30,7 @@ INSTRUCCIONES DE INSTALACION BACKEND LARAVEL - MYSQL
 >php -S localhost:8000 -t public/
 
 INSTRUCCIONES DE INSTALACION FRONTEND VUEJS
+
 #Ir a la carpeta frontend
 >cd frontend
 
