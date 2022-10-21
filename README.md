@@ -34,12 +34,12 @@ INSTRUCCIONES DE INSTALACION FRONTEND VUEJS
 >cd frontend
 
 #Instalar modules
-yarn install
+>yarn install
 
 #Configurar .env
-VUE_APP_API_BASE_URL='http://localhost:8000/api'
+>VUE_APP_API_BASE_URL='http://localhost:8000/api'
 
 #Ejecutar app
-yarn serve
+>yarn serve
 
 Los atributos de cada producto se mostraran al dar clic en el icono "Flecha hacía abajo" de cada renglón
