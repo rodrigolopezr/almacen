@@ -9,13 +9,13 @@ INSTRUCCIONES DE INSTALACION BACKEND LARAVEL - MYSQL
 >composer update
 
 #Configurar .env
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=almacen
-    DB_USERNAME=root
-    DB_PASSWORD=
-    APP_KEY=base64:d00INexymIs1lBPmJ4AbubHuCGipoRzRmxKLPoPWd+M=
+ >DB_CONNECTION=mysql
+ >DB_HOST=127.0.0.1
+ >DB_PORT=3306
+ >DB_DATABASE=almacen
+ >DB_USERNAME=root
+ >DB_PASSWORD=
+ >APP_KEY=base64:d00INexymIs1lBPmJ4AbubHuCGipoRzRmxKLPoPWd+M=
     
 #Ejecutar Migraciones
 >php artisan migrate
