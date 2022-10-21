@@ -1,1 +1,6 @@
 # Proyecto Creado con LARAVEL 9 Y VUEJS 2
+
+INSTRUCCIONES DE INSTALACION BACKEND
+
+> cd backend
+
